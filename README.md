@@ -1,5 +1,4 @@
 # HandWritten-Recognition
-# All the Details inside the report
 
 Handwriting recognition is a challenging problem in the field of deep learning, with applications spanning from digitizing historical documents to enhancing human-computer
 interaction. This abstract explores the application of the Convolutional Recurrent
@@ -34,4 +33,7 @@ representing a handwritten name. Within this dataset, you’ll find these transc
 thoughtfully organized into distinct sets, each serving a crucial role in the training, testing,
 and validation of our CRNN model. This effort is not just an exploration of deep learning’s
 capabilities but also a testament to the potential of harnessing advanced technology to bridge
-the gap between the analog and digital realms of handwritten text recognition
+the gap between the analog and digital realms of handwritten text recognition.
+
+# All the Details inside the report
+
