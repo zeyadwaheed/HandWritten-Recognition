@@ -1,5 +1,5 @@
 # HandWritten-Recognition
-Handwriting recognition is a challenging problem in the field of deep learning, with applications spanning from digitizing historical documents to enhancing human-computer
+Handwriting recognition is a challenging problem in the field of deep learning, with applications spanning from digitizing historical documents to enhancing human-computer
 interaction. This abstract explores the application of the Convolutional Recurrent
 Neural Network (CRNN) model to address the handwriting recognition problem and
 achieve accurate text prediction. The handwritten text recognition problem involves
